@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-templates-and-snapshots-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-templates-and-snapshots",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-templates-and-snapshots-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/templates-and-snapshots.md",
+  "presentationPlan": "projects/crm/nextjs/templates-and-snapshots.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
